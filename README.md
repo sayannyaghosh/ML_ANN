@@ -6,4 +6,4 @@ be effective in various stages of drug discovery process thus reducing both cost
 developing a drug than conventional methods. Various CADD tools are used that assist during the
 process of drug development.Various machine learning processes are being used in present days for
 drug prediction.
-This repository contains code developed for clasification of active and inactive drug molecules using Artificial Neural Network.
+This repository contains code developed for classification of active and inactive drug molecules using Artificial Neural Network.
