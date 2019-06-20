@@ -7,3 +7,18 @@ developing a drug than conventional methods. Various CADD tools are used that as
 process of drug development.Various machine learning processes are being used in present days for
 drug prediction.
 This repository contains code developed for classification of active and inactive drug molecules using Artificial Neural Network.
+
+
+## Usage:
+
+##### 1. Cloning the repository.
+```
+git clone 
+cd ML_ANN
+```
+
+##### 2. Running the script
+Run script in any Python IDE
+```
+xyz.py
+```
