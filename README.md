@@ -13,12 +13,12 @@ This repository contains code developed for classification of active and inactiv
 
 ##### 1. Cloning the repository.
 ```
-git clone 
+git clone https://github.com/sayannyaghosh/ML_ANN.git
 cd ML_ANN
 ```
 
 ##### 2. Running the script
 Run script in any Python IDE
 ```
-xyz.py
+final_program.py
 ```
